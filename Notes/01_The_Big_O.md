@@ -33,11 +33,11 @@ complexity, maybe code two is better.
 
 [1,2,3,4,5,6,7]
 
-- So let's say you're looking for the number one.This is your best case scenario. You're going to find this in one operation.
+- So let's say you're looking for the number one - 1.This is your best case scenario. You're going to find this in one operation.
 
-- But if you're looking for the number seven that is your worst case scenario. You have to iterate through the entire list to be able to get to it.
+- But if you're looking for the number seven - 7 that is your worst case scenario. You have to iterate through the entire list to be able to get to it.
 
-- If you're looking for the number four, that's your average case. So when someone talks about the best case scenario for running a piece of code that is Omega, the average case is theta and worst case is Omicron or O.
+- If you're looking for the number four - 4, that's your average case. So when someone talks about the best case scenario for running a piece of code that is Omega, the average case is theta and worst case is Omicron or O.
 
 - Technically when you talk about big O you are always talking about worst case.
 
